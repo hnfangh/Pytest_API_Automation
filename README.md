@@ -3,21 +3,26 @@
 
 
 ----
-#### 模块类的设计
-`Request.py` 封装request方法，可以支持多协议扩展（get\post\put）
+#### Common 公共方法
+Request.py 封装request方法，可以支持多协议扩展 （未实现）
 
-`Config.py`读取配置文件，包括：不同环境的配置，email相关配置
+Config.py 读取配置文件，包括：不同环境的配置，email相关配置
 
-`Log.py` 封装记录log方法，分为：debug、info、warning、error、critical
+Email.py 封装smtplib方法，运行结果发送邮件通知 （未实现）
 
-`Email.py`封装smtplib方法，运行结果发送邮件通知
+Assert.py 封装assert方法 （未实现）
 
-`Assert.py` 封装assert方法
+Hash.py 封装常用加密方法 （未实现）
 
-`Hash.py` 封装常用加密方法
+Shell.py 封装运行cmd方法
 
-`Session.py` 封装获取登录cookies方法
+CasLogin.py 封装获取登录cookies方法
 
-`run.py` 核心代码。定义并执行用例集，生成报告
+Mysql.py 封装数据库操作（含mycat连接）
+
+CSVReader.py 封装去读csv文件中的测试数据方法
+
+DataTime.py 封装时间和日期格式化的方法
 
 ----
+
