@@ -1,0 +1,24 @@
+[DEBUG 2018-08-31 22:11:43]cookies: {'PPY_AFFSESSID1': 's%3AYC2YCWP7JzDtDheX3QBkhlPA.vCFjK9XxSVlq5ZmAZEJyGW15bLG47i31aKG%2FSwBuORE'}
+[DEBUG 2019-12-23 14:43:47]This is debug message
+[INFO 2019-12-23 14:43:47]This is info message
+[WARNING 2019-12-23 14:43:47]This is warning message
+[ERROR 2019-12-23 14:43:47]This is error
+[CRITICAL 2019-12-23 14:43:47]This is critical message
+[DEBUG 2019-12-23 14:43:54]This is debug message
+[INFO 2019-12-23 14:43:54]This is info message
+[WARNING 2019-12-23 14:43:54]This is warning message
+[ERROR 2019-12-23 14:43:54]This is error
+[CRITICAL 2019-12-23 14:43:54]This is critical message
+[INFO 2019-12-24 14:22:04]初始化配置文件, path=C:\Users\DELL\Desktop\API_Automation-master\Conf\config.ini
+[INFO 2019-12-24 14:22:04]执行用例集为：--allure_features=Home,Personal
+[ERROR 2019-12-24 14:22:06]邮件发送失败，请检查邮件配置
+[DEBUG 2019-12-24 16:54:38]This is debug message
+[INFO 2019-12-24 16:54:38]This is info message
+[WARNING 2019-12-24 16:54:38]This is warning message
+[ERROR 2019-12-24 16:54:38]This is error
+[CRITICAL 2019-12-24 16:54:38]This is critical message
+[DEBUG 2019-12-24 17:37:00]This is debug message
+[INFO 2019-12-24 17:37:00]This is info message
+[WARNING 2019-12-24 17:37:00]This is warning message
+[ERROR 2019-12-24 17:37:00]This is error
+[CRITICAL 2019-12-24 17:37:00]This is critical message
