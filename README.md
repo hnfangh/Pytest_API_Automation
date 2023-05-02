@@ -26,3 +26,4 @@ DataTime.py 封装时间和日期格式化的方法
 
 ----
 
+![pytest框架流程](https://user-images.githubusercontent.com/77956804/235640824-43e2c489-3f20-448f-9b35-d5b86dbc83d7.jpg)
